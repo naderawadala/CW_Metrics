@@ -1,0 +1,6 @@
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\obj\Debug\CW_Metrics.csprojAssemblyReference.cache
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\bin\Debug\CW_Metrics.exe.config
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\bin\Debug\CW_Metrics.exe
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\bin\Debug\CW_Metrics.pdb
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\obj\Debug\CW_Metrics.exe
+B:\University\YEAR 3\Метрики за анализ\CW_Metrics\CW_Metrics\obj\Debug\CW_Metrics.pdb
